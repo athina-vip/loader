@@ -2,6 +2,6 @@
   "keys": [
     { "user": "ATHINA", "expired": "2026-12-31" },
     { "user": "VIP", "expired": "2026-02-15" },
-    { "user": "TEST", "expired": "2026-01-22" }
+    { "user": "TEST", "expired": "2025-01-22" }
   ]
 }
